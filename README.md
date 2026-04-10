@@ -30,12 +30,9 @@ I build web apps, AI-powered bots, and automation tools for the African market.
 
 ---
 
-### GitHub Stats
+### GitHub Activity
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=muniko53&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muniko53&layout=compact&hide_border=true" alt="Top Languages" height="165" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=muniko53&theme=default&hide_border=true)
 
 ---
 
