@@ -1,32 +1,37 @@
-## Hey, I'm Jacob Muniko
+# Hey, I'm Jacob Muniko
 
-**Full Stack Developer & AI Automation Engineer** from Nairobi, Kenya.
+**Full-Stack Developer · AI Automation · Generalist AI Trainer** — Karatina, Kenya (GMT+3)
 
-I build web apps, AI-powered bots, and automation tools for the African market.
+I build production web apps and AI automation for the African market, and do remote generalist
+AI training work (annotation, evaluation, response ranking, guideline-based QA).
+
+**Open to freelance & contract work** — AI training/data, M-Pesa integrations, AI chatbots,
+full-stack builds.
+📧 jacobmuniko53@gmail.com · 🌐 [Portfolio](https://muniko53.github.io/jacob-muniko-portfolio/)
 
 ---
 
 ### What I've built
 
 | Project | Description | Stack |
-|---------|-------------|-------|
-| [Linklet](https://www.linklet.co.ke) | Campus marketplace for university students to buy, sell & trade | React, Node.js, PostgreSQL, Socket.IO, M-Pesa |
-| [AI Support Bot](https://github.com/muniko53/linklet-telegram-bot) | 24/7 AI customer support on Telegram using Llama 3.3 | Node.js, Groq API, Telegram Bot API |
-| [Social Media Poster](https://github.com/muniko53/linklet-social-poster) | AI-generated daily posts to Facebook, Instagram, Pinterest & TikTok with Telegram approval | Node.js, Groq API, Zernio API |
+| --- | --- | --- |
+| [Linklet](https://www.linklet.co.ke) | Registered campus marketplace — buy, sell & trade, real-time chat, M-Pesa checkout, PWA | React, Node.js/Express, PostgreSQL, Socket.IO, M-Pesa/Daraja |
+| [AI Support Bot](https://github.com/muniko53/linklet-telegram-bot) | 24/7 AI customer support on Telegram with conversation memory | Node.js, Groq (Llama 3.3), Telegram Bot API, Render |
+| [Social Media Poster](https://github.com/muniko53/linklet-social-poster) | AI-generated daily posts to Facebook, Instagram, Pinterest & TikTok with Telegram approval | Node.js, Groq API |
+| [NSE Market Agent](https://github.com/muniko53) | Weekday NSE brief (SCOM, EQTY, KCB) — Yahoo Finance + Reuters RSS + Claude analysis by email | n8n, Claude AI |
+| [Portfolio](https://muniko53.github.io/jacob-muniko-portfolio/) | This profile's site — single-file responsive page, light/dark mode, zero JS | HTML, CSS |
 
 ---
 
 ### Tech Stack
 
-**Frontend** &nbsp;&nbsp; ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Backend** &nbsp;&nbsp; ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-
-**AI & Automation** &nbsp;&nbsp; ![Groq](https://img.shields.io/badge/Groq_/_Llama-FF6B35?style=flat) ![Telegram](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=flat&logo=telegram&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-
-**Payments** &nbsp;&nbsp; ![M-Pesa](https://img.shields.io/badge/M--Pesa_/_Daraja-4CAF50?style=flat) ![Africa's Talking](https://img.shields.io/badge/Africa's_Talking-orange?style=flat)
-
-**DevOps** &nbsp;&nbsp; ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
+**Frontend** — React, Tailwind CSS, JavaScript (ES6+), PWA
+**Backend** — Node.js, Express, REST APIs, Socket.IO, Webhooks
+**Database** — PostgreSQL, SQL, Migrations
+**AI & Automation** — Claude API, Groq (Llama 3), n8n Workflows, Telegram Bot API
+**Payments** — M-Pesa / Daraja API, Africa's Talking
+**DevOps** — Git, Docker, Vercel, Render, Supabase, Linux CLI
+**Data** — Annotation & evaluation to guidelines, Excel/Sheets, QA
 
 ---
 
@@ -38,9 +43,7 @@ I build web apps, AI-powered bots, and automation tools for the African market.
 
 ### Let's work together
 
-I'm open to freelance projects, collaborations, and AI automation work.
+**Specialties:** generalist AI training, M-Pesa integrations, AI chatbots, automation, full-stack web apps
 
-**Specialties:** M-Pesa integrations, AI chatbots, social media automation, full-stack web apps
-
-**Email:** jacobmuniko53@gmail.com
-**Portfolio:** [linklet.co.ke](https://www.linklet.co.ke)
+**Email:** [jacobmuniko53@gmail.com](mailto:jacobmuniko53@gmail.com)
+**Portfolio:** [muniko53.github.io/jacob-muniko-portfolio](https://muniko53.github.io/jacob-muniko-portfolio/)
