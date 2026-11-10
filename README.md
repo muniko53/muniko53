@@ -1,4 +1,4 @@
-# Jacob Muniko
+# Jacob Muniko Muhiri
 
 **Technology builder: practical software, AI systems & automation for African markets.**
 
