@@ -1,49 +1,61 @@
-# Hey, I'm Jacob Muniko
+# Jacob Muniko
 
-**Full-Stack Developer · AI Automation · Generalist AI Trainer** — Karatina, Kenya (GMT+3)
+**Technology builder: practical software, AI systems & automation for African markets.**
 
-I build production web apps and AI automation for the African market, and do remote generalist
-AI training work (annotation, evaluation, response ranking, guideline-based QA).
+Builder of practical software and automation | Founder of Linklet | Kenya (remote) · East Africa Time (EAT)
 
-**Open to freelance & contract work** — AI training/data, M-Pesa integrations, AI chatbots,
-full-stack builds.
+**Open to freelance & contract work** — development, automation, data workflows
+
 📧 jacobmuniko53@gmail.com · 🌐 [Portfolio](https://muniko53.github.io/jacob-muniko-portfolio/)
 
 ---
 
-### What I've built
+## Selected Work
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| [Linklet](https://www.linklet.co.ke) | Registered campus marketplace — buy, sell & trade, real-time chat, M-Pesa checkout, PWA | React, Node.js/Express, PostgreSQL, Socket.IO, M-Pesa/Daraja |
-| [AI Support Bot](https://github.com/muniko53/linklet-telegram-bot) | 24/7 AI customer support on Telegram with conversation memory | Node.js, Groq (Llama 3.3), Telegram Bot API, Render |
-| [Social Media Poster](https://github.com/muniko53/linklet-social-poster) | AI-generated daily posts to Facebook, Instagram, Pinterest & TikTok with Telegram approval | Node.js, Groq API |
-| [NSE Market Agent](https://github.com/muniko53) | Weekday NSE brief (SCOM, EQTY, KCB) — Yahoo Finance + Reuters RSS + Claude analysis by email | n8n, Claude AI |
-| [Portfolio](https://muniko53.github.io/jacob-muniko-portfolio/) | This profile's site — single-file responsive page, light/dark mode, zero JS | HTML, CSS |
+| Project | What It Does | Stack | Status |
+| --- | --- | --- | --- |
+| [**Linklet**](https://www.linklet.co.ke) | Campus marketplace for Kenyan university students — buy, sell, trade with M-Pesa payments, real-time chat | React, Node.js, Supabase PostgreSQL, Socket.IO, M-Pesa/Daraja | Live (beta) |
+| [**AI Support Bot**](https://github.com/muniko53/linklet-telegram-bot) | 24/7 AI customer support on Telegram using Groq/Llama 3.3 with conversation memory | Node.js, Groq API, Telegram Bot API | Live |
+| [**Social Media Poster**](https://github.com/muniko53/linklet-social-poster) | AI-generated daily posts to Facebook, Instagram, Pinterest with Telegram approval flow | Node.js, Groq API, Zernio API | Live |
+| [**Smart WhatsApp Bot**](https://github.com/muniko53/smart-whatsapp-bot) | WhatsApp assistant with layered backend and admin dashboard | Python, JavaScript, WhatsApp API | Prototype |
+| [**Portfolio**](https://muniko53.github.io/jacob-muniko-portfolio/) | Single-file static portfolio with light/dark mode, zero build step | HTML, CSS | Live |
 
----
-
-### Tech Stack
-
-**Frontend** — React, Tailwind CSS, JavaScript (ES6+), PWA
-**Backend** — Node.js, Express, REST APIs, Socket.IO, Webhooks
-**Database** — PostgreSQL, SQL, Migrations
-**AI & Automation** — Claude API, Groq (Llama 3), n8n Workflows, Telegram Bot API
-**Payments** — M-Pesa / Daraja API, Africa's Talking
-**DevOps** — Git, Docker, Vercel, Render, Supabase, Linux CLI
-**Data** — Annotation & evaluation to guidelines, Excel/Sheets, QA
+*More projects coming soon — NSE Market Agent (n8n automation) in development.*
 
 ---
 
-### GitHub Activity
+## Tech Stack
 
-![GitHub Streak](https://streak-stats.demolab.com?user=muniko53&theme=default&hide_border=true)
+| Area | Technologies |
+| --- | --- |
+| **Frontend** | React, Tailwind CSS, JavaScript (ES6+), PWA |
+| **Backend** | Node.js, Express, REST APIs, Socket.IO |
+| **Database** | PostgreSQL, Supabase (Session pooler), SQL |
+| **AI & Automation** | Groq (Llama 3), Telegram Bot API, n8n (private workflows) |
+| **Payments & SMS** | M-Pesa Daraja API (callbacks), Africa's Talking |
+| **Deployment** | Docker, Vercel, Google Cloud Run |
+| **Tools** | Git, Linux CLI |
 
 ---
 
-### Let's work together
+## Currently Building
 
-**Specialties:** generalist AI training, M-Pesa integrations, AI chatbots, automation, full-stack web apps
+- **Linklet** — Growing Kenya's campus marketplace, adding features based on student feedback
+- **NSE Market Agent** — Automated n8n workflow for Kenyan stock analysis (launching soon)
+- **AI automation workflows** — Custom bots and data pipelines for African businesses
 
-**Email:** [jacobmuniko53@gmail.com](mailto:jacobmuniko53@gmail.com)
-**Portfolio:** [muniko53.github.io/jacob-muniko-portfolio](https://muniko53.github.io/jacob-muniko-portfolio/)
+---
+
+## Work With Me
+
+**Services:** Full-stack development, AI chatbots, automation workflows, M-Pesa integrations, data pipelines
+
+**Contact:** jacobmuniko53@gmail.com
+
+**Response time:** Usually within 24 hours (East Africa Time)
+
+**Confidentiality:** Happy to work under NDA; no proprietary task data shared publicly
+
+---
+
+*Last updated: November 2026*
